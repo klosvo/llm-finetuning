@@ -1,0 +1,14 @@
+argparse
+torch
+torchvision
+torchaudio
+datasets
+transformers
+peft
+evaluate
+matplotlib
+numpy
+pandas
+seaborn
+scikit-learn
+wordcloud
