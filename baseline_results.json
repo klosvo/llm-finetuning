@@ -1,0 +1,36 @@
+{
+    "GPT-2": {
+        "accuracy": 0.485,
+        "sample_preds": [
+            1,
+            1,
+            1,
+            0,
+            1
+        ],
+        "sample_labels": [
+            1,
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "LLaMA 2-7B": {
+        "accuracy": 0.4972,
+        "sample_preds": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "sample_labels": [
+            1,
+            1,
+            0,
+            1,
+            0
+        ]
+    }
+}
